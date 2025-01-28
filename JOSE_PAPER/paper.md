@@ -34,6 +34,9 @@ authors:
   - name: Scott Henderson
     affiliation: "1"
     orcid: 0000-0003-0624-4965
+  - name: Claire Jensen
+    affiliation: "1"
+    orcid: 0009-0008-7625-7749
 
     
 affiliations:
